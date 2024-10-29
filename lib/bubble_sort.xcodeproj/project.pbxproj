@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		67C1F2242CD1372100FCFB0C /* ordination.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = ordination.py; sourceTree = "<group>"; };
+		67C1F22A2CD172A300FCFB0C /* COPYING.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = COPYING.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -24,6 +25,7 @@
 			children = (
 				67C1F2282CD13DD700FCFB0C /* methods */,
 				67C1F2242CD1372100FCFB0C /* ordination.py */,
+				67C1F22A2CD172A300FCFB0C /* COPYING.txt */,
 			);
 			sourceTree = "<group>";
 		};

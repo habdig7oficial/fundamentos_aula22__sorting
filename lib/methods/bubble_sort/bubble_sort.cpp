@@ -7,6 +7,24 @@
 
 // Compilado com: clang++ -shared -Wl,-install_name,testlib.so -o bubble_sort.so -fPIC bubble_sort.cpp
 
+
+/*
+ 
+ Copyright 2024 Mateus Felipe da Silveira Vieira
+ 
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ 
+ */
+
+
 #include "bubble_sort.hpp"
 #include <iostream>
 #include <vector>
